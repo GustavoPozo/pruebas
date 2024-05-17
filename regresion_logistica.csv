@@ -1,4 +1,4 @@
-IDENTIFICACION,Costo_Implementacion (USD),Impacto_Eficiencia_(%),Tiempo_Integracion_(meses),Satisfaccion_Empleados_(1-10),Adquirir_Tecnologia_(0=No,1=Si)
+IDENTIFICACION,Costo_Implementacion_(USD),Impacto_Eficiencia_(%),Tiempo_Integracion_(meses),Satisfaccion_Empleados_(1-10),Adquirir_Tecnologia_(0=No_1=Si)
 1,500,20,6,8,1
 2,120,3,12,7,1
 3,3000,1,4,5,0
